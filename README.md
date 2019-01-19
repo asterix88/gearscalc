@@ -1,12 +1,8 @@
 # gearscalc
-## gearcalc.py
 
 
-  ##                              #      
- #   ###  ## ###  ##     ###  ##  #  ### 
- # # ##  # # #    #      #   # #  #  #   
- # # ### ### #   ##      ### ###  ## ### 
-  ##                                     
+
+                        
 
 Usage: 
 gearscalc.py -opt -m -z -L -Dt1 -Dt2 -mn -cos
